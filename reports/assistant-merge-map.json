@@ -1,0 +1,561 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "activation-checklist-draft",
+      "customer-status-update-draft",
+      "operations-handoff-draft",
+      "automated-outage-notification-system-with-sms-email-blast",
+      "multi-channel-contact-history-phone-sms-email-chat"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "activation-checklist-draft",
+        "title": "Activation checklist draft",
+        "originalPath": "/features/activation-checklist-draft"
+      },
+      {
+        "id": "customer-status-update-draft",
+        "title": "Customer status update draft",
+        "originalPath": "/features/customer-status-update-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "automated-outage-notification-system-with-sms-email-blast",
+        "title": "automated outage notification system with sms email blast",
+        "originalPath": "/features/automated-outage-notification-system-with-sms-email-blast"
+      },
+      {
+        "id": "multi-channel-contact-history-phone-sms-email-chat",
+        "title": "multi channel contact history phone sms email chat",
+        "originalPath": "/features/multi-channel-contact-history-phone-sms-email-chat"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "carrier-contract-and-tariff-library",
+      "circuit-and-number-inventory",
+      "contract-rate-recalculation",
+      "carrier-dispute-workflow",
+      "renewal-and-consolidation-analytics",
+      "authorization-extraction",
+      "csr-and-order-comparison",
+      "resubmission-preparation",
+      "interconnect-agreement-library",
+      "carrier-route-registry",
+      "cdr-ingestion",
+      "prefix-destination-mapping",
+      "billable-duration-calculation",
+      "rate-deck-versioning",
+      "dispute-workflow",
+      "route-carrier-analytics",
+      "usage-analytics",
+      "tower-performance-analytics",
+      "subscriber-analytics",
+      "backlog",
+      "all-major-planning-functions-are-ai-driven-minimal-gaps",
+      "ai-suggested-sla-recovery-playbooks"
+    ],
+    "ai": true,
+    "representativeId": "carrier-contract-and-tariff-library",
+    "description": "One assistant for 22 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "carrier-contract-and-tariff-library",
+        "title": "Carrier contract and tariff library",
+        "originalPath": "/features/carrier-contract-and-tariff-library"
+      },
+      {
+        "id": "circuit-and-number-inventory",
+        "title": "Circuit and number inventory",
+        "originalPath": "/features/circuit-and-number-inventory"
+      },
+      {
+        "id": "contract-rate-recalculation",
+        "title": "Contract-rate recalculation",
+        "originalPath": "/features/contract-rate-recalculation"
+      },
+      {
+        "id": "carrier-dispute-workflow",
+        "title": "Carrier dispute workflow",
+        "originalPath": "/features/carrier-dispute-workflow"
+      },
+      {
+        "id": "renewal-and-consolidation-analytics",
+        "title": "Renewal and consolidation analytics",
+        "originalPath": "/features/renewal-and-consolidation-analytics"
+      },
+      {
+        "id": "authorization-extraction",
+        "title": "Authorization extraction",
+        "originalPath": "/features/authorization-extraction"
+      },
+      {
+        "id": "csr-and-order-comparison",
+        "title": "CSR and order comparison",
+        "originalPath": "/features/csr-and-order-comparison"
+      },
+      {
+        "id": "resubmission-preparation",
+        "title": "Resubmission preparation",
+        "originalPath": "/features/resubmission-preparation"
+      },
+      {
+        "id": "interconnect-agreement-library",
+        "title": "Interconnect agreement library",
+        "originalPath": "/features/interconnect-agreement-library"
+      },
+      {
+        "id": "carrier-route-registry",
+        "title": "Carrier route registry",
+        "originalPath": "/features/carrier-route-registry"
+      },
+      {
+        "id": "cdr-ingestion",
+        "title": "CDR ingestion",
+        "originalPath": "/features/cdr-ingestion"
+      },
+      {
+        "id": "prefix-destination-mapping",
+        "title": "Prefix destination mapping",
+        "originalPath": "/features/prefix-destination-mapping"
+      },
+      {
+        "id": "billable-duration-calculation",
+        "title": "Billable duration calculation",
+        "originalPath": "/features/billable-duration-calculation"
+      },
+      {
+        "id": "rate-deck-versioning",
+        "title": "Rate deck versioning",
+        "originalPath": "/features/rate-deck-versioning"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "route-carrier-analytics",
+        "title": "Route carrier analytics",
+        "originalPath": "/features/route-carrier-analytics"
+      },
+      {
+        "id": "usage-analytics",
+        "title": "Usage Analytics",
+        "originalPath": "/features/usage-analytics"
+      },
+      {
+        "id": "tower-performance-analytics",
+        "title": "Tower Performance Analytics",
+        "originalPath": "/features/tower-performance-analytics"
+      },
+      {
+        "id": "subscriber-analytics",
+        "title": "Subscriber Analytics",
+        "originalPath": "/features/subscriber-analytics"
+      },
+      {
+        "id": "backlog",
+        "title": "Backlog",
+        "originalPath": "/features/backlog"
+      },
+      {
+        "id": "all-major-planning-functions-are-ai-driven-minimal-gaps",
+        "title": "all major planning functions are ai driven minimal gaps",
+        "originalPath": "/features/all-major-planning-functions-are-ai-driven-minimal-gaps"
+      },
+      {
+        "id": "ai-suggested-sla-recovery-playbooks",
+        "title": "ai suggested sla recovery playbooks",
+        "originalPath": "/features/ai-suggested-sla-recovery-playbooks"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "location-and-cost-center-allocation",
+      "carrier-invoice-ingestion",
+      "disconnected-service-billing-detection",
+      "roaming-and-international-fee-audit",
+      "usage-allowance-reconciliation",
+      "tax-and-surcharge-audit",
+      "service-level-credit-calculation",
+      "order-to-bill-reconciliation",
+      "refund-and-credit-ledger",
+      "least-cost-route-validation",
+      "quality-sla-credit",
+      "invoice-generation",
+      "counterparty-invoice-audit",
+      "net-settlement-reconciliation",
+      "cost-optimizer",
+      "infrastructure-costs"
+    ],
+    "ai": true,
+    "representativeId": "location-and-cost-center-allocation",
+    "description": "One assistant for 16 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "location-and-cost-center-allocation",
+        "title": "Location and cost-center allocation",
+        "originalPath": "/features/location-and-cost-center-allocation"
+      },
+      {
+        "id": "carrier-invoice-ingestion",
+        "title": "Carrier invoice ingestion",
+        "originalPath": "/features/carrier-invoice-ingestion"
+      },
+      {
+        "id": "disconnected-service-billing-detection",
+        "title": "Disconnected-service billing detection",
+        "originalPath": "/features/disconnected-service-billing-detection"
+      },
+      {
+        "id": "roaming-and-international-fee-audit",
+        "title": "Roaming and international fee audit",
+        "originalPath": "/features/roaming-and-international-fee-audit"
+      },
+      {
+        "id": "usage-allowance-reconciliation",
+        "title": "Usage allowance reconciliation",
+        "originalPath": "/features/usage-allowance-reconciliation"
+      },
+      {
+        "id": "tax-and-surcharge-audit",
+        "title": "Tax and surcharge audit",
+        "originalPath": "/features/tax-and-surcharge-audit"
+      },
+      {
+        "id": "service-level-credit-calculation",
+        "title": "Service-level credit calculation",
+        "originalPath": "/features/service-level-credit-calculation"
+      },
+      {
+        "id": "order-to-bill-reconciliation",
+        "title": "Order-to-bill reconciliation",
+        "originalPath": "/features/order-to-bill-reconciliation"
+      },
+      {
+        "id": "refund-and-credit-ledger",
+        "title": "Refund and credit ledger",
+        "originalPath": "/features/refund-and-credit-ledger"
+      },
+      {
+        "id": "least-cost-route-validation",
+        "title": "Least-cost route validation",
+        "originalPath": "/features/least-cost-route-validation"
+      },
+      {
+        "id": "quality-sla-credit",
+        "title": "Quality SLA credit",
+        "originalPath": "/features/quality-sla-credit"
+      },
+      {
+        "id": "invoice-generation",
+        "title": "Invoice generation",
+        "originalPath": "/features/invoice-generation"
+      },
+      {
+        "id": "counterparty-invoice-audit",
+        "title": "Counterparty invoice audit",
+        "originalPath": "/features/counterparty-invoice-audit"
+      },
+      {
+        "id": "net-settlement-reconciliation",
+        "title": "Net settlement reconciliation",
+        "originalPath": "/features/net-settlement-reconciliation"
+      },
+      {
+        "id": "cost-optimizer",
+        "title": "Cost Optimizer",
+        "originalPath": "/features/cost-optimizer"
+      },
+      {
+        "id": "infrastructure-costs",
+        "title": "Infrastructure Cost Analysis",
+        "originalPath": "/features/infrastructure-costs"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "duplicate-service-detection",
+      "mobile-zero-use-analysis",
+      "carrier-rejection-classification",
+      "traffic-imbalance-analysis",
+      "optimizer",
+      "traffic",
+      "network-slice-optimizer",
+      "plan-recommendations",
+      "nps-prediction",
+      "nps-forecast",
+      "dynamic-plan-recommendations",
+      "dropped-call-root-cause-analysis",
+      "personalized-plan-recommendations",
+      "retention-offer-optimizer",
+      "coverage-gaps",
+      "demand-forecasts",
+      "energy-optimizer",
+      "predictive-maintenance",
+      "predictive-maintenance-flagging-equipment-likely-to-fail",
+      "network-slicing-optimizer-for-urllc-embb-mmtc-service"
+    ],
+    "ai": true,
+    "representativeId": "duplicate-service-detection",
+    "description": "One assistant for 20 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "duplicate-service-detection",
+        "title": "Duplicate service detection",
+        "originalPath": "/features/duplicate-service-detection"
+      },
+      {
+        "id": "mobile-zero-use-analysis",
+        "title": "Mobile zero-use analysis",
+        "originalPath": "/features/mobile-zero-use-analysis"
+      },
+      {
+        "id": "carrier-rejection-classification",
+        "title": "Carrier rejection classification",
+        "originalPath": "/features/carrier-rejection-classification"
+      },
+      {
+        "id": "traffic-imbalance-analysis",
+        "title": "Traffic imbalance analysis",
+        "originalPath": "/features/traffic-imbalance-analysis"
+      },
+      {
+        "id": "optimizer",
+        "title": "Network Optimizer",
+        "originalPath": "/features/optimizer"
+      },
+      {
+        "id": "traffic",
+        "title": "Traffic Analyzer",
+        "originalPath": "/features/traffic"
+      },
+      {
+        "id": "network-slice-optimizer",
+        "title": "Slice Optimizer",
+        "originalPath": "/features/network-slice-optimizer"
+      },
+      {
+        "id": "plan-recommendations",
+        "title": "Plan Recommendations",
+        "originalPath": "/features/plan-recommendations"
+      },
+      {
+        "id": "nps-prediction",
+        "title": "NPS Prediction",
+        "originalPath": "/features/nps-prediction"
+      },
+      {
+        "id": "nps-forecast",
+        "title": "NPS Forecast",
+        "originalPath": "/features/nps-forecast"
+      },
+      {
+        "id": "dynamic-plan-recommendations",
+        "title": "Plan Recommender (AI)",
+        "originalPath": "/features/dynamic-plan-recommendations"
+      },
+      {
+        "id": "dropped-call-root-cause-analysis",
+        "title": "Dropped Call Root Cause Analysis",
+        "originalPath": "/features/dropped-call-root-cause-analysis"
+      },
+      {
+        "id": "personalized-plan-recommendations",
+        "title": "Personalized Plan Recommendations",
+        "originalPath": "/features/personalized-plan-recommendations"
+      },
+      {
+        "id": "retention-offer-optimizer",
+        "title": "retention offer optimizer",
+        "originalPath": "/features/retention-offer-optimizer"
+      },
+      {
+        "id": "coverage-gaps",
+        "title": "Coverage Gap Analysis",
+        "originalPath": "/features/coverage-gaps"
+      },
+      {
+        "id": "demand-forecasts",
+        "title": "Demand Forecasting",
+        "originalPath": "/features/demand-forecasts"
+      },
+      {
+        "id": "energy-optimizer",
+        "title": "Energy optimizer",
+        "originalPath": "/features/energy-optimizer"
+      },
+      {
+        "id": "predictive-maintenance",
+        "title": "Predictive maintenance",
+        "originalPath": "/features/predictive-maintenance"
+      },
+      {
+        "id": "predictive-maintenance-flagging-equipment-likely-to-fail",
+        "title": "predictive maintenance flagging equipment likely to fail",
+        "originalPath": "/features/predictive-maintenance-flagging-equipment-likely-to-fail"
+      },
+      {
+        "id": "network-slicing-optimizer-for-urllc-embb-mmtc-service",
+        "title": "network slicing optimizer for urllc embb mmtc service",
+        "originalPath": "/features/network-slicing-optimizer-for-urllc-embb-mmtc-service"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "evidence-completeness-review",
+      "fraud-traffic-exclusion",
+      "call-quality-prediction",
+      "call-quality-root-cause-analysis-correlating-with-network-customer",
+      "dynamic-plan-recommendations-from-usage-patterns-account-risk"
+    ],
+    "ai": true,
+    "representativeId": "evidence-completeness-review",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "fraud-traffic-exclusion",
+        "title": "Fraud traffic exclusion",
+        "originalPath": "/features/fraud-traffic-exclusion"
+      },
+      {
+        "id": "call-quality-prediction",
+        "title": "Call Quality Prediction",
+        "originalPath": "/features/call-quality-prediction"
+      },
+      {
+        "id": "call-quality-root-cause-analysis-correlating-with-network-customer",
+        "title": "call quality root cause analysis correlating with network customer",
+        "originalPath": "/features/call-quality-root-cause-analysis-correlating-with-network-customer"
+      },
+      {
+        "id": "dynamic-plan-recommendations-from-usage-patterns-account-risk",
+        "title": "dynamic plan recommendations from usage patterns account risk",
+        "originalPath": "/features/dynamic-plan-recommendations-from-usage-patterns-account-risk"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "capacity-forecast"
+    ],
+    "ai": true,
+    "representativeId": "capacity-forecast",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "capacity-forecast",
+        "title": "Capacity Forecast",
+        "originalPath": "/features/capacity-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "churn-analysis",
+      "churn-predict",
+      "customer-churn-analysis",
+      "customer-sentiment-analysis",
+      "outreach-campaigns",
+      "critical-no-ai-endpoints-for-churn-prediction-sentiment"
+    ],
+    "ai": true,
+    "representativeId": "churn-analysis",
+    "description": "One assistant for 6 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "churn-analysis",
+        "title": "Churn Analysis",
+        "originalPath": "/features/churn-analysis"
+      },
+      {
+        "id": "churn-predict",
+        "title": "Churn Prediction",
+        "originalPath": "/features/churn-predict"
+      },
+      {
+        "id": "customer-churn-analysis",
+        "title": "Customer Churn Analysis",
+        "originalPath": "/features/customer-churn-analysis"
+      },
+      {
+        "id": "customer-sentiment-analysis",
+        "title": "Customer Sentiment Analysis",
+        "originalPath": "/features/customer-sentiment-analysis"
+      },
+      {
+        "id": "outreach-campaigns",
+        "title": "Outreach campaigns",
+        "originalPath": "/features/outreach-campaigns"
+      },
+      {
+        "id": "critical-no-ai-endpoints-for-churn-prediction-sentiment",
+        "title": "critical no ai endpoints for churn prediction sentiment",
+        "originalPath": "/features/critical-no-ai-endpoints-for-churn-prediction-sentiment"
+      }
+    ]
+  }
+]

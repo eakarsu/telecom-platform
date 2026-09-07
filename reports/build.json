@@ -1,0 +1,9 @@
+{
+  "app": "telecom-platform",
+  "features": 181,
+  "sourceApps": 7,
+  "calculatorEngines": 0,
+  "registryHash": "df5eb43adcfae7c9bfd791f8b0a7fdf777b7bad3fcc281fad6f0ebe37eb4b4bb",
+  "builtAt": "2026-09-07T22:05:54.070Z",
+  "status": "built"
+}

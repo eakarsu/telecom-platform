@@ -1,0 +1,1543 @@
+{
+  "mapped": [
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "carrier-contract-and-tariff-library",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "carrier-contract-and-tariff-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "circuit-and-number-inventory",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "circuit-and-number-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "location-and-cost-center-allocation",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "location-and-cost-center-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "carrier-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "carrier-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "contract-rate-recalculation",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "contract-rate-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "disconnected-service-billing-detection",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "disconnected-service-billing-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "duplicate-service-detection",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "duplicate-service-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "mobile-zero-use-analysis",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "mobile-zero-use-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "roaming-and-international-fee-audit",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "roaming-and-international-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "usage-allowance-reconciliation",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "usage-allowance-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "tax-and-surcharge-audit",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "tax-and-surcharge-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "service-level-credit-calculation",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "service-level-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "order-to-bill-reconciliation",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "order-to-bill-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "carrier-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "carrier-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "refund-and-credit-ledger",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "refund-and-credit-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "renewal-and-consolidation-analytics",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/app.config.mjs",
+      "canonical": "renewal-and-consolidation-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "PortingOrder",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "porting-order",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "PortingNumber",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "porting-number",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "AuthorizationLetter",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "authorization-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "CustomerServiceRecord",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "customer-service-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "CarrierSubmission",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "carrier-submission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "CarrierRejection",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "carrier-rejection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "FirmOrderCommitment",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "firm-order-commitment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "PortActivation",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "port-activation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "PortingException",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "porting-exception",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "authorization-extraction",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "authorization-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "csr-and-order-comparison",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "csr-and-order-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "carrier-rejection-classification",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "carrier-rejection-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "resubmission-preparation",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "resubmission-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "activation-checklist-draft",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "activation-checklist-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "customer-status-update-draft",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "customer-status-update-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-revenue-assurance-cdr-reconciliation",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-telecom-revenue-assurance-cdr-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-revenue-assurance-cdr-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-telecom-revenue-assurance-cdr-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-revenue-assurance-cdr-reconciliation",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-telecom-revenue-assurance-cdr-reconciliation/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "interconnect-agreement-library",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "interconnect-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "carrier-route-registry",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "carrier-route-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "cdr-ingestion",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "cdr-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "prefix-destination-mapping",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "prefix-destination-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "billable-duration-calculation",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "billable-duration-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "rate-deck-versioning",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "rate-deck-versioning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "least-cost-route-validation",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "least-cost-route-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "traffic-imbalance-analysis",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "traffic-imbalance-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "quality-sla-credit",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "quality-sla-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "fraud-traffic-exclusion",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "fraud-traffic-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "invoice-generation",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "invoice-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "counterparty-invoice-audit",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "counterparty-invoice-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "net-settlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "net-settlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "route-carrier-analytics",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/app.config.mjs",
+      "canonical": "route-carrier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/network-slices",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "network-slices",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/qos-profiles",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "qos-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/edge-locations",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "edge-locations",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/devices",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "devices",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/sim-cards",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "sim-cards",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/traffic-policies",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "traffic-policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/sla-monitors",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "sla-monitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/bandwidth-allocations",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "bandwidth-allocations",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/latency-profiles",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "latency-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/developer-apps",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "developer-apps",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/api-keys",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "api-keys",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/camara-apis",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "camara-apis",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-optimizer",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-traffic",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "traffic",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-anomaly",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-capacity-forecast",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "capacity-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-security-threat",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "security-threat",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-cost-optimizer",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "cost-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-network-slice-optimizer",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "network-slice-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-compliance-report",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "compliance-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-automated-provisioning",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "automated-provisioning",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/ai-multi-operator-federation",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "multi-operator-federation",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/anomaly-rules",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "anomaly-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/usage-analytics",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "usage-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "sourceKey": "/network-events",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "network-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/call-quality",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "call-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/dropped-calls",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "dropped-calls",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/plan-recommendations",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "plan-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/proactive-issues",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "proactive-issues",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/nps-prediction",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "nps-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/churn-analysis",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "churn-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/network-outages",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "network-outages",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/customer-sentiment",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "customer-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/billing-disputes",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "billing-disputes",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/sla-compliance",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "sla-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/tower-performance",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "tower-performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/customer-360",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "customer-360",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/proactive-care",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "proactive-care",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/nps-forecast",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "nps-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/churn-predict",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "churn-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/call-quality-rca",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "call-quality-rca",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/sentiment-routing",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "sentiment-routing",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/customer-health-score",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "customer-health-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/dynamic-plan-recommendations",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "dynamic-plan-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/contact-threads",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "contact-threads",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/billing-integrations",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "billing-integrations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/customer-profiles",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "customer-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/support-tickets",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "support-tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/payment-history",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "payment-history",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "/usage-tracking",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "canonical": "usage-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Call Quality Prediction",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "call-quality-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Dropped Call Root Cause Analysis",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "dropped-call-root-cause-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Personalized Plan Recommendations",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "personalized-plan-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Proactive Issue Resolution",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "proactive-issue-resolution",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "NPS Prediction",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "nps-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Customer Churn Analysis",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "customer-churn-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Network Outage Monitoring",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "network-outage-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Customer Sentiment Analysis",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "customer-sentiment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Billing Dispute Resolution",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "billing-dispute-resolution",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "SLA Compliance Tracking",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "sla-compliance-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Tower Performance Analytics",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/FeaturePage.js",
+      "canonical": "tower-performance-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Customer Profiles",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/NonAIFeaturePage.js",
+      "canonical": "customer-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Support Tickets",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/NonAIFeaturePage.js",
+      "canonical": "support-tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Payment History",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/NonAIFeaturePage.js",
+      "canonical": "payment-history",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Appointments",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/NonAIFeaturePage.js",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "Usage Tracking",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/pages/NonAIFeaturePage.js",
+      "canonical": "usage-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "outreach-campaigns",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "outreach-campaigns",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "dispatch-plan",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "dispatch-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-churn-early-warning-system-with-real-time-scoring-and-retention",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "churn-early-warning-system-with-real-time-scoring-and-retention",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-sentiment-driven-routing-escalating-negative-calls-to-specialists",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "sentiment-driven-routing-escalating-negative-calls-to-specialists",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-call-quality-root-cause-analysis-correlating-with-network-customer",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "call-quality-root-cause-analysis-correlating-with-network-customer",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-dynamic-plan-recommendations-from-usage-patterns-account-risk",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "dynamic-plan-recommendations-from-usage-patterns-account-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-composite-customer-health-score-payment-satisfaction-churn-nps",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "composite-customer-health-score-payment-satisfaction-churn-nps",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "cf-automated-outage-notification-system-with-sms-email-blast",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "automated-outage-notification-system-with-sms-email-blast",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-critical-no-ai-endpoints-for-churn-prediction-sentiment",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "critical-no-ai-endpoints-for-churn-prediction-sentiment",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-conversational-customer-service-copilot",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "conversational-customer-service-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-retention-offer-optimizer",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "retention-offer-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-multi-channel-contact-history-phone-sms-email-chat",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "multi-channel-contact-history-phone-sms-email-chat",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-limited-billing-system-integrations-only-stub-layer-no",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "limited-billing-system-integrations-only-stub-layer-no",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-customer-self-service-portal",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "customer-self-service-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-correlation-engine-between-network-performance-and-satisfaction",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "correlation-engine-between-network-performance-and-satisfaction",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-no-webhooks-for-outage-events",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "webhooks-for-outage-events",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "sourceKey": "gap-limited-notifications-one-reference-only-not-a-full",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "canonical": "limited-notifications-one-reference-only-not-a-full",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cell-towers",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cell-towers",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "bandwidth-allocations",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "bandwidth-allocations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "rollout-plans",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "rollout-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "coverage-gaps",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "coverage-gaps",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "demand-forecasts",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "demand-forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "network-load",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "network-load",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "spectrum-management",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "spectrum-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "qos-monitoring",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "qos-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "infrastructure-costs",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "infrastructure-costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "signal-interference",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "signal-interference",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "network-alarms",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "network-alarms",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "subscriber-analytics",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "subscriber-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "fiber-routes",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "fiber-routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "maintenance-schedules",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "maintenance-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "energy-consumption",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "energy-consumption",
+      "kind": "definition"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "coverage-map",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "coverage-map",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "capacity-simulator",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "capacity-simulator",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "alarm-correlation",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "alarm-correlation",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "energy-optimizer",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "energy-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "5g-deployment-plan",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "5g-deployment-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "predictive-maintenance",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "predictive-maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "ai-backlog",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "backlog",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-5g-deployment-planner-prioritizing-rollout-by-demand-roi",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "5g-deployment-planner-prioritizing-rollout-by-demand-roi",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-dynamic-spectrum-sharing-optimization-across-4g-5g",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "dynamic-spectrum-sharing-optimization-across-4g-5g",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-predictive-maintenance-flagging-equipment-likely-to-fail",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "predictive-maintenance-flagging-equipment-likely-to-fail",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-energy-efficiency-scoring-by-pue",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "energy-efficiency-scoring-by-pue",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-network-slicing-optimizer-for-urllc-embb-mmtc-service",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "network-slicing-optimizer-for-urllc-embb-mmtc-service",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "cf-operator-bench-marking-dashboard-comparing-peer-carriers",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "operator-bench-marking-dashboard-comparing-peer-carriers",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-all-major-planning-functions-are-ai-driven-minimal-gaps",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "all-major-planning-functions-are-ai-driven-minimal-gaps",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-conversational-network-planning-copilot",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "conversational-network-planning-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-ai-suggested-sla-recovery-playbooks",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "ai-suggested-sla-recovery-playbooks",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-integration-with-network-management-systems-ericsson-nokia",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "integration-with-network-management-systems-ericsson-nokia",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-real-time-network-telemetry-ingestion",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "real-time-network-telemetry-ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-what-if-scenario-ui-export-to-excel-powerpoint",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "what-if-scenario-ui-export-to-excel-powerpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-capacity-roadmap-planning-budgeting-module",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "capacity-roadmap-planning-budgeting-module",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-webhooks-for-alarm-correlation-events",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "webhooks-for-alarm-correlation-events",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-notification-system",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "notification-system",
+      "kind": "route"
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "sourceKey": "gap-no-multi-tenant-network-operator-separation",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "canonical": "multi-tenant-network-operator-separation",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-enterprise-telecom-expense-circuit-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-number-porting-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-telecom-number-porting-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-wholesale-interconnect-settlement",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AINetworkascodeplatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINetworkascodeplatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomCustomerExperienceManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITelecomNetworkCapacityPlanner",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITelecomNetworkCapacityPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "carrier-contract-and-tariff-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "circuit-and-number-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-and-cost-center-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-rate-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "disconnected-service-billing-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-service-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "mobile-zero-use-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "roaming-and-international-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "usage-allowance-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-and-surcharge-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-level-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "order-to-bill-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-and-credit-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-and-consolidation-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "interconnect-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-route-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cdr-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "prefix-destination-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "billable-duration-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-deck-versioning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "least-cost-route-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "traffic-imbalance-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quality-sla-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fraud-traffic-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "counterparty-invoice-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "net-settlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "route-carrier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

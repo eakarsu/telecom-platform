@@ -1,0 +1,29 @@
+{
+  "id": "telecom-platform",
+  "title": "Telecom networks & customer operations",
+  "buyer": "Telecom operators",
+  "sourceCount": 7,
+  "sources": [
+    "ai-enterprise-telecom-expense-circuit-recovery",
+    "ai-telecom-number-porting-operations",
+    "ai-telecom-revenue-assurance-cdr-reconciliation",
+    "ai-telecom-wholesale-interconnect-settlement",
+    "AINetworkascodeplatform",
+    "AITelecomCustomerExperienceManager",
+    "AITelecomNetworkCapacityPlanner"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46036,
+  "productName": "Telecom networks Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-enterprise-telecom-expense-circuit-recovery",
+    "/Volumes/external/projects/ai-telecom-number-porting-operations",
+    "/Volumes/external/projects/ai-telecom-revenue-assurance-cdr-reconciliation",
+    "/Volumes/external/projects/ai-telecom-wholesale-interconnect-settlement",
+    "/Volumes/external/projects/AINetworkascodeplatform",
+    "/Volumes/external/projects/AITelecomCustomerExperienceManager",
+    "/Volumes/external/projects/AITelecomNetworkCapacityPlanner"
+  ]
+}
