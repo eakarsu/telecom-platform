@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-circuit-and-number-inventory",
+      "feature": "circuit-and-number-inventory",
+      "title": "Circuit and number inventory insight",
+      "focus": "Summarize Circuit and number inventory records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent circuits, numbers or carrier confirmations."
+    },
+    {
+      "id": "insight-carrier-invoice-ingestion",
+      "feature": "carrier-invoice-ingestion",
+      "title": "Carrier invoice ingestion insight",
+      "focus": "Summarize Carrier invoice ingestion records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent charges, credits or disputes."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
